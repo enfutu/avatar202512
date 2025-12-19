@@ -1,26 +1,84 @@
 {
   "dependencies": {
-    "com.vrchat.avatars": {
-      "version": "3.6.1"
-    },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
+    },
+    "com.vrchat.base": {
+      "version": "3.10.1"
+    },
+    "com.vrchat.avatars": {
+      "version": "3.10.1"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.10"
+    },
+    "com.anatawa12.avatar-optimizer": {
+      "version": "1.9.0-rc.2"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "2.3.2"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.16.0-alpha.0"
+    },
+    "jp.unisakistudio.kawaiiposing": {
+      "version": "3.0.0-alpha.2"
     }
   },
   "locked": {
-    "com.vrchat.avatars": {
-      "version": "3.6.1",
-      "dependencies": {
-        "com.vrchat.base": "3.6.1"
-      }
-    },
-    "com.vrchat.base": {
-      "version": "3.6.1",
-      "dependencies": {}
-    },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29",
       "dependencies": {}
+    },
+    "com.vrchat.base": {
+      "version": "3.10.1",
+      "dependencies": {}
+    },
+    "com.vrchat.avatars": {
+      "version": "3.10.1",
+      "dependencies": {
+        "com.vrchat.base": "3.10.1"
+      }
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.10",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.1.0"
+      }
+    },
+    "com.anatawa12.avatar-optimizer": {
+      "version": "1.9.0-rc.2",
+      "dependencies": {
+        "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+        "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "1.10.1",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "2.3.2",
+      "dependencies": {}
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.16.0-alpha.0",
+      "dependencies": {
+        "nadena.dev.ndmf": ">=1.10.0 <2.0.0-a"
+      }
+    },
+    "jp.unisakistudio.kawaiiposing": {
+      "version": "3.0.0-alpha.2",
+      "dependencies": {
+        "jp.unisakistudio.posingsystem": "^3.0.0-alpha.2"
+      }
+    },
+    "jp.unisakistudio.posingsystem": {
+      "version": "3.0.0-alpha.2",
+      "dependencies": {
+        "nadena.dev.modular-avatar": "^1.15.1",
+        "nadena.dev.ndmf": "^1.10.0"
+      }
     }
   }
 }
