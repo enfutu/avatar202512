@@ -199,6 +199,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "jp.suzuryg.face-emo": {
+      "version": "file:jp.suzuryg.face-emo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "jp.unisakistudio.kawaiiposing": {
       "version": "file:jp.unisakistudio.kawaiiposing",
       "depth": 0,

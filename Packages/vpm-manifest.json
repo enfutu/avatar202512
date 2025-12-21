@@ -23,6 +23,9 @@
     },
     "jp.unisakistudio.kawaiiposing": {
       "version": "3.0.0-alpha.2"
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.6.3"
     }
   },
   "locked": {
@@ -79,6 +82,10 @@
         "nadena.dev.modular-avatar": "^1.15.1",
         "nadena.dev.ndmf": "^1.10.0"
       }
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.6.3",
+      "dependencies": {}
     }
   }
 }
