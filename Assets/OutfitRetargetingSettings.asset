@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 37567586, guid: 4da6d05567333e244ab2155abc025482, type: 3}
+  m_Name: OutfitRetargetingSettings
+  m_EditorClassIdentifier: 
+  targetPrefab: {fileID: 0}
+  baseFbxAsset: {fileID: 919132149155446097, guid: f6f423622bad64446a77c3453cb75ed6,
+    type: 3}
+  configJsonAsset: {fileID: 4900000, guid: a42385d86b8c87e48a0039fc53f37f75, type: 3}
+  selectedTargetAvatarIndex: 0
+  selectedSourceAvatarIndex: 0
+  selectedTargetAvatarName: Beryl
+  selectedSourceAvatarName: Kikyo
+  blendShapeSelectionKeys:
+  - Breasts_big
+  - Breasts_small
+  - Toe_highheels
+  blendShapeSelectionValues: 000000
+  blendShapeValueKeys:
+  - Breasts_big
+  - Breasts_small
+  - Toe_highheels
+  blendShapeValueValues:
+  - 100
+  - 100
+  - 100
+  enableSubdivision: 0
+  disableTriangulation: 0
+  outputFolderName: Outputs
+  tempFolderName: temp

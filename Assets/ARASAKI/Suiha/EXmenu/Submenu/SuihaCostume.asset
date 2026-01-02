@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SuihaCostume
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 92e2065a337554d4da6d48cf9075ba82, type: 2}
+  controls:
+  - name: Jacket
+    icon: {fileID: 2800000, guid: d33de306b8e726a478c17e0a203af767, type: 3}
+    type: 102
+    parameter:
+      name: Jacket
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Inner
+    icon: {fileID: 2800000, guid: 60de13935f6c20d47a13ae698f3a7f7b, type: 3}
+    type: 102
+    parameter:
+      name: Inner
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shorts
+    icon: {fileID: 2800000, guid: 38b61d7f9cf27734e93df16abbf5566c, type: 3}
+    type: 102
+    parameter:
+      name: Shorts
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Glove
+    icon: {fileID: 2800000, guid: 4ff0739eeafd9a44487f4ca449a168bf, type: 3}
+    type: 102
+    parameter:
+      name: Glove
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Stocking
+    icon: {fileID: 2800000, guid: 0f4fa8a89f4aced40957fad821781444, type: 3}
+    type: 102
+    parameter:
+      name: Stocking
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Boots
+    icon: {fileID: 2800000, guid: e731ec032d599634e802762d3bac3a72, type: 3}
+    type: 102
+    parameter:
+      name: Boots
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Belt
+    icon: {fileID: 2800000, guid: d14c8717327162d4994eb645a5054db6, type: 3}
+    type: 102
+    parameter:
+      name: Belt
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Goggles
+    icon: {fileID: 2800000, guid: cf48a2bce8005ff46885260b13779fab, type: 3}
+    type: 102
+    parameter:
+      name: Goggles
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

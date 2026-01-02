@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SuihaExpressionsMenu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 92e2065a337554d4da6d48cf9075ba82, type: 2}
+  controls:
+  - name: face
+    icon: {fileID: 2800000, guid: af1ba8919b0ccb94a99caf43ac36f97d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 657766c429ee1e24db1d6d4f2e208254, type: 2}
+    subParameters: []
+    labels: []
+  - name: cloth
+    icon: {fileID: 2800000, guid: bd8a88846cb1f0d45b5110b9508b385d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d1ae560068f3aa74ebbf9adbff476a40, type: 2}
+    subParameters: []
+    labels: []
+  - name: expression
+    icon: {fileID: 2800000, guid: 16e0846165acaa1429417e757c53ef9b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 67e50f6916520694bb8e560aafb37cf7, type: 2}
+    subParameters: []
+    labels: []
+  - name: wrench
+    icon: {fileID: 2800000, guid: 8739adb80343151469ddc5a3894ee146, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 6412aef374fb0694b9ac6c4dad6950f9, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SuihaExpression
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 92e2065a337554d4da6d48cf9075ba82, type: 2}
+  controls:
+  - name: Wear googles
+    icon: {fileID: 2800000, guid: cf48a2bce8005ff46885260b13779fab, type: 3}
+    type: 102
+    parameter:
+      name: SetGoggles
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Side hair
+    icon: {fileID: 2800000, guid: dbf6a390d7cc378469cc7ddc82a19aa7, type: 3}
+    type: 102
+    parameter:
+      name: HairFrontSide
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Side Tail
+    icon: {fileID: 2800000, guid: dbf6a390d7cc378469cc7ddc82a19aa7, type: 3}
+    type: 102
+    parameter:
+      name: HairSide
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Kemo
+    icon: {fileID: 2800000, guid: 885d80b2991a18642b70414d3404c898, type: 3}
+    type: 102
+    parameter:
+      name: Ear&Tail
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bust size
+    icon: {fileID: 2800000, guid: 447069da5c7d3bb46bbb5f6324bdc774, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Breast
+    labels: []
