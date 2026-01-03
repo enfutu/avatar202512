@@ -1,0 +1,1263 @@
+{
+  "name": "Lime",
+  "defaultFBXPath": "Assets/Amatousagi/Lime/FBX/Lime_ver1.0.0.fbx",
+  "meshName": "Body_Base",
+  "height": 1.120620,
+  "basePose": "pose_basis_lime.json",
+  "enableAutomaticBoneOrientation": 0,
+  "blendshapes": [
+    {
+      "name": "Foot_HighHeel",
+      "value": 0.000
+    },
+    {
+      "name": "Waist_slim",
+      "value": 0.000
+    },
+    {
+      "name": "Nail_point",
+      "value": 25.000
+    },
+    {
+      "name": "-------Breasts-------",
+      "value": 0.000
+    },
+    {
+      "name": "Breasts_big",
+      "value": 0.000
+    },
+    {
+      "name": "Breasts_small",
+      "value": 0.000
+    },
+    {
+      "name": "Breasts_push_up",
+      "value": 100.000
+    },
+    {
+      "name": "Nipple_ON",
+      "value": 0.000
+    },
+    {
+      "name": "Nipple_big",
+      "value": 0.000
+    },
+    {
+      "name": "Nipple_small",
+      "value": 0.000
+    },
+    {
+      "name": "--------Shrink--------",
+      "value": 0.000
+    },
+    {
+      "name": "Shoulder_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "UpperArm_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Elbow_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "LowerArm_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Wrist_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Hand_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Finger_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Neck_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Chest_1_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Chest_2_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Spine_1_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Spine_2_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Hip_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_1_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_2_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Knee_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_1_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_2_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Ankle_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Foot_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "Toe_OFF",
+      "value": 0.000
+    },
+    {
+      "name": "--------Separate--------",
+      "value": 0.000
+    },
+    {
+      "name": "Shoulder_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Shoulder_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "UpperArm_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "UpperArm_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Elbow_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Elbow_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Wrist_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Wrist_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "LowerArm_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "LowerArm_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Hand_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Hand_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Finger_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Finger_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_1_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_1_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_2_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "UpperLeg_2_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Knee_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Knee_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_1_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_1_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_2_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "LowerLeg_2_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Ankle_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Ankle_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Foot_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Foot_OFF_R",
+      "value": 0.000
+    },
+    {
+      "name": "Toe_OFF_L",
+      "value": 0.000
+    },
+    {
+      "name": "Toe_OFF_R",
+      "value": 0.000
+    }
+  ],
+  "humanoidBones": [
+    {
+      "humanoidBoneName": "Hips",
+      "boneName": "Hips"
+    },
+    {
+      "humanoidBoneName": "LeftUpperLeg",
+      "boneName": "UpperLeg.L"
+    },
+    {
+      "humanoidBoneName": "RightUpperLeg",
+      "boneName": "UpperLeg.R"
+    },
+    {
+      "humanoidBoneName": "LeftLowerLeg",
+      "boneName": "LowerLeg.L"
+    },
+    {
+      "humanoidBoneName": "RightLowerLeg",
+      "boneName": "LowerLeg.R"
+    },
+    {
+      "humanoidBoneName": "LeftFoot",
+      "boneName": "Foot.L"
+    },
+    {
+      "humanoidBoneName": "RightFoot",
+      "boneName": "Foot.R"
+    },
+    {
+      "humanoidBoneName": "Spine",
+      "boneName": "Spine"
+    },
+    {
+      "humanoidBoneName": "Chest",
+      "boneName": "Chest"
+    },
+    {
+      "humanoidBoneName": "Neck",
+      "boneName": "Neck"
+    },
+    {
+      "humanoidBoneName": "Head",
+      "boneName": "Head"
+    },
+    {
+      "humanoidBoneName": "LeftShoulder",
+      "boneName": "Shoulder.L"
+    },
+    {
+      "humanoidBoneName": "RightShoulder",
+      "boneName": "Shoulder.R"
+    },
+    {
+      "humanoidBoneName": "LeftUpperArm",
+      "boneName": "UpperArm.L"
+    },
+    {
+      "humanoidBoneName": "RightUpperArm",
+      "boneName": "UpperArm.R"
+    },
+    {
+      "humanoidBoneName": "LeftLowerArm",
+      "boneName": "LowerArm.L"
+    },
+    {
+      "humanoidBoneName": "RightLowerArm",
+      "boneName": "LowerArm.R"
+    },
+    {
+      "humanoidBoneName": "LeftHand",
+      "boneName": "Hand.L"
+    },
+    {
+      "humanoidBoneName": "RightHand",
+      "boneName": "Hand.R"
+    },
+    {
+      "humanoidBoneName": "LeftToes",
+      "boneName": "Toe.L"
+    },
+    {
+      "humanoidBoneName": "RightToes",
+      "boneName": "Toe.R"
+    },
+    {
+      "humanoidBoneName": "LeftEye",
+      "boneName": "LeftEye"
+    },
+    {
+      "humanoidBoneName": "RightEye",
+      "boneName": "RightEye"
+    },
+    {
+      "humanoidBoneName": "LeftThumbProximal",
+      "boneName": "ThumbProximal.L"
+    },
+    {
+      "humanoidBoneName": "LeftThumbIntermediate",
+      "boneName": "ThumbIntermediate.L"
+    },
+    {
+      "humanoidBoneName": "LeftThumbDistal",
+      "boneName": "ThumbDistal.L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexProximal",
+      "boneName": "IndexProximal.L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexIntermediate",
+      "boneName": "IndexIntermediate.L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexDistal",
+      "boneName": "IndexDistal.L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleProximal",
+      "boneName": "MiddleProximal.L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleIntermediate",
+      "boneName": "MiddleIntermediate.L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleDistal",
+      "boneName": "MiddleDistal.L"
+    },
+    {
+      "humanoidBoneName": "LeftRingProximal",
+      "boneName": "RingProximal.L"
+    },
+    {
+      "humanoidBoneName": "LeftRingIntermediate",
+      "boneName": "RingIntermediate.L"
+    },
+    {
+      "humanoidBoneName": "LeftRingDistal",
+      "boneName": "RingDistal.L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleProximal",
+      "boneName": "LittleProximal.L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleIntermediate",
+      "boneName": "LittleIntermediate.L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleDistal",
+      "boneName": "LittleDistal.L"
+    },
+    {
+      "humanoidBoneName": "RightThumbProximal",
+      "boneName": "ThumbProximal.R"
+    },
+    {
+      "humanoidBoneName": "RightThumbIntermediate",
+      "boneName": "ThumbIntermediate.R"
+    },
+    {
+      "humanoidBoneName": "RightThumbDistal",
+      "boneName": "ThumbDistal.R"
+    },
+    {
+      "humanoidBoneName": "RightIndexProximal",
+      "boneName": "IndexProximal.R"
+    },
+    {
+      "humanoidBoneName": "RightIndexIntermediate",
+      "boneName": "IndexIntermediate.R"
+    },
+    {
+      "humanoidBoneName": "RightIndexDistal",
+      "boneName": "IndexDistal.R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleProximal",
+      "boneName": "MiddleProximal.R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleIntermediate",
+      "boneName": "MiddleIntermediate.R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleDistal",
+      "boneName": "MiddleDistal.R"
+    },
+    {
+      "humanoidBoneName": "RightRingProximal",
+      "boneName": "RingProximal.R"
+    },
+    {
+      "humanoidBoneName": "RightRingIntermediate",
+      "boneName": "RingIntermediate.R"
+    },
+    {
+      "humanoidBoneName": "RightRingDistal",
+      "boneName": "RingDistal.R"
+    },
+    {
+      "humanoidBoneName": "RightLittleProximal",
+      "boneName": "LittleProximal.R"
+    },
+    {
+      "humanoidBoneName": "RightLittleIntermediate",
+      "boneName": "LittleIntermediate.R"
+    },
+    {
+      "humanoidBoneName": "RightLittleDistal",
+      "boneName": "LittleDistal.R"
+    },
+    {
+      "humanoidBoneName": "LeftBreast",
+      "boneName": "Breast_L_Root"
+    },
+    {
+      "humanoidBoneName": "RightBreast",
+      "boneName": "Breast_R_Root"
+    }
+  ],
+  "boneHierarchy": 
+    {
+      "name": "Lime_kisekae Variant",
+      "children": [
+        {
+          "name": "Armature",
+          "children": [
+            {
+              "name": "Hips",
+              "children": [
+                {
+                  "name": "Spine",
+                  "children": [
+                    {
+                      "name": "Chest",
+                      "children": [
+                        {
+                          "name": "Breast_L_Root",
+                          "children": [
+                            {
+                              "name": "Breast_L.001",
+                              "children": [
+                                {
+                                  "name": "Breast_L.002",
+                                  "children": [
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Breast_R_Root",
+                          "children": [
+                            {
+                              "name": "Breast_R.001",
+                              "children": [
+                                {
+                                  "name": "Breast_R.002",
+                                  "children": [
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Neck",
+                          "children": [
+                            {
+                              "name": "Head",
+                              "children": [
+                                {
+                                  "name": "LeftEye",
+                                  "children": [
+                                  ]
+                                },
+                                {
+                                  "name": "RightEye",
+                                  "children": [
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shoulder.L",
+                          "children": [
+                            {
+                              "name": "UpperArm.L",
+                              "children": [
+                                {
+                                  "name": "LowerArm.L",
+                                  "children": [
+                                    {
+                                      "name": "Hand.L",
+                                      "children": [
+                                        {
+                                          "name": "IndexProximal.L",
+                                          "children": [
+                                            {
+                                              "name": "IndexIntermediate.L",
+                                              "children": [
+                                                {
+                                                  "name": "IndexDistal.L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "LittleProximal.L",
+                                          "children": [
+                                            {
+                                              "name": "LittleIntermediate.L",
+                                              "children": [
+                                                {
+                                                  "name": "LittleDistal.L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "MiddleProximal.L",
+                                          "children": [
+                                            {
+                                              "name": "MiddleIntermediate.L",
+                                              "children": [
+                                                {
+                                                  "name": "MiddleDistal.L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "RingProximal.L",
+                                          "children": [
+                                            {
+                                              "name": "RingIntermediate.L",
+                                              "children": [
+                                                {
+                                                  "name": "RingDistal.L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ThumbProximal.L",
+                                          "children": [
+                                            {
+                                              "name": "ThumbIntermediate.L",
+                                              "children": [
+                                                {
+                                                  "name": "ThumbDistal.L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shoulder.R",
+                          "children": [
+                            {
+                              "name": "UpperArm.R",
+                              "children": [
+                                {
+                                  "name": "LowerArm.R",
+                                  "children": [
+                                    {
+                                      "name": "Hand.R",
+                                      "children": [
+                                        {
+                                          "name": "IndexProximal.R",
+                                          "children": [
+                                            {
+                                              "name": "IndexIntermediate.R",
+                                              "children": [
+                                                {
+                                                  "name": "IndexDistal.R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "LittleProximal.R",
+                                          "children": [
+                                            {
+                                              "name": "LittleIntermediate.R",
+                                              "children": [
+                                                {
+                                                  "name": "LittleDistal.R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "MiddleProximal.R",
+                                          "children": [
+                                            {
+                                              "name": "MiddleIntermediate.R",
+                                              "children": [
+                                                {
+                                                  "name": "MiddleDistal.R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "RingProximal.R",
+                                          "children": [
+                                            {
+                                              "name": "RingIntermediate.R",
+                                              "children": [
+                                                {
+                                                  "name": "RingDistal.R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ThumbProximal.R",
+                                          "children": [
+                                            {
+                                              "name": "ThumbIntermediate.R",
+                                              "children": [
+                                                {
+                                                  "name": "ThumbDistal.R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "UpperLeg.L",
+                  "children": [
+                    {
+                      "name": "LowerLeg.L",
+                      "children": [
+                        {
+                          "name": "Foot.L",
+                          "children": [
+                            {
+                              "name": "Toe.L",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "UpperLeg.R",
+                  "children": [
+                    {
+                      "name": "LowerLeg.R",
+                      "children": [
+                        {
+                          "name": "Foot.R",
+                          "children": [
+                            {
+                              "name": "Toe.R",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+  "auxiliaryBones": [
+    {
+      "humanoidBoneName": "LeftBreast",
+      "auxiliaryBones": [
+        "Breast_L.001",
+        "Breast_L.002"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightBreast",
+      "auxiliaryBones": [
+        "Breast_R.001",
+        "Breast_R.002"
+      ]
+    }
+  ],
+  "commonSwaySettings": {
+    "startDistance": 0.025,
+    "endDistance": 0.050
+  },
+  "swayBones": [
+  ],
+  "boneComponents": [
+  ],
+  "shrinkBlendShapes": [
+    {
+      "boneName": "Shrink_Hips",
+      "blendShapes": [
+        {
+          "name": "Hip_OFF",
+          "index": 23,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftUpperLeg",
+      "blendShapes": [
+        {
+          "name": "UpperLeg_1_OFF_L",
+          "index": 47,
+          "weight": 100.0
+        },
+        {
+          "name": "UpperLeg_2_OFF_L",
+          "index": 49,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightUpperLeg",
+      "blendShapes": [
+        {
+          "name": "UpperLeg_1_OFF_R",
+          "index": 48,
+          "weight": 100.0
+        },
+        {
+          "name": "UpperLeg_2_OFF_R",
+          "index": 50,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftLowerLeg",
+      "blendShapes": [
+        {
+          "name": "LowerLeg_1_OFF_L",
+          "index": 53,
+          "weight": 100.0
+        },
+        {
+          "name": "LowerLeg_2_OFF_L",
+          "index": 55,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightLowerLeg",
+      "blendShapes": [
+        {
+          "name": "LowerLeg_1_OFF_R",
+          "index": 54,
+          "weight": 100.0
+        },
+        {
+          "name": "LowerLeg_2_OFF_R",
+          "index": 56,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftFoot",
+      "blendShapes": [
+        {
+          "name": "Foot_OFF_L",
+          "index": 59,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightFoot",
+      "blendShapes": [
+        {
+          "name": "Foot_OFF_R",
+          "index": 60,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Spine",
+      "blendShapes": [
+        {
+          "name": "Spine_1_OFF",
+          "index": 21,
+          "weight": 100.0
+        },
+        {
+          "name": "Spine_2_OFF",
+          "index": 22,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Chest",
+      "blendShapes": [
+        {
+          "name": "Chest_1_OFF",
+          "index": 19,
+          "weight": 100.0
+        },
+        {
+          "name": "Chest_2_OFF",
+          "index": 20,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Neck",
+      "blendShapes": [
+        {
+          "name": "Neck_OFF",
+          "index": 18,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftShoulder",
+      "blendShapes": [
+        {
+          "name": "Shoulder_OFF_L",
+          "index": 33,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightShoulder",
+      "blendShapes": [
+        {
+          "name": "Shoulder_OFF_R",
+          "index": 34,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftUpperArm",
+      "blendShapes": [
+        {
+          "name": "UpperArm_OFF_L",
+          "index": 35,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightUpperArm",
+      "blendShapes": [
+        {
+          "name": "UpperArm_OFF_R",
+          "index": 36,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftLowerArm",
+      "blendShapes": [
+        {
+          "name": "LowerArm_OFF_L",
+          "index": 41,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightLowerArm",
+      "blendShapes": [
+        {
+          "name": "LowerArm_OFF_R",
+          "index": 42,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftHand",
+      "blendShapes": [
+        {
+          "name": "Hand_OFF_L",
+          "index": 43,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightHand",
+      "blendShapes": [
+        {
+          "name": "Hand_OFF_R",
+          "index": 44,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftToes",
+      "blendShapes": [
+        {
+          "name": "Toe_OFF_L",
+          "index": 61,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightToes",
+      "blendShapes": [
+        {
+          "name": "Toe_OFF_R",
+          "index": 62,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftElbow",
+      "blendShapes": [
+        {
+          "name": "Elbow_OFF_L",
+          "index": 37,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightElbow",
+      "blendShapes": [
+        {
+          "name": "Elbow_OFF_R",
+          "index": 38,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftWrist",
+      "blendShapes": [
+        {
+          "name": "Wrist_OFF_L",
+          "index": 39,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightWrist",
+      "blendShapes": [
+        {
+          "name": "Wrist_OFF_R",
+          "index": 40,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftKnee",
+      "blendShapes": [
+        {
+          "name": "Knee_OFF_L",
+          "index": 51,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightKnee",
+      "blendShapes": [
+        {
+          "name": "Knee_OFF_R",
+          "index": 52,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftAnkle",
+      "blendShapes": [
+        {
+          "name": "Ankle_OFF_L",
+          "index": 57,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightAnkle",
+      "blendShapes": [
+        {
+          "name": "Ankle_OFF_R",
+          "index": 58,
+          "weight": 100.0
+        }
+      ]
+    }
+  ],
+  "blendShapeFields": [
+    {
+      "label": "Breasts_big",
+      "filePath": "deformation_lime_shape_Breasts_big.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "RightBreast",
+        "RightShoulder",
+        "Spine"
+      ]
+    },
+    {
+      "label": "Breasts_small",
+      "filePath": "deformation_lime_shape_Breasts_small.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "RightBreast",
+        "RightShoulder",
+        "Spine"
+      ]
+    },
+    {
+      "label": "Foot_HighHeel",
+      "filePath": "deformation_lime_shape_Foot_HighHeel.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftFootIndexDistal",
+        "LeftFootIndexIntermediate",
+        "LeftFootIndexProximal",
+        "LeftFootLittleDistal",
+        "LeftFootLittleIntermediate",
+        "LeftFootLittleProximal",
+        "LeftFootMiddleDistal",
+        "LeftFootMiddleIntermediate",
+        "LeftFootMiddleProximal",
+        "LeftFootRingDistal",
+        "LeftFootRingIntermediate",
+        "LeftFootRingProximal",
+        "LeftFootThumbDistal",
+        "LeftFootThumbIntermediate",
+        "LeftFootThumbProximal",
+        "LeftLowerLeg",
+        "LeftToes",
+        "RightFoot",
+        "RightFootIndexDistal",
+        "RightFootIndexIntermediate",
+        "RightFootIndexProximal",
+        "RightFootLittleDistal",
+        "RightFootLittleIntermediate",
+        "RightFootLittleProximal",
+        "RightFootMiddleDistal",
+        "RightFootMiddleIntermediate",
+        "RightFootMiddleProximal",
+        "RightFootRingDistal",
+        "RightFootRingIntermediate",
+        "RightFootRingProximal",
+        "RightFootThumbDistal",
+        "RightFootThumbIntermediate",
+        "RightFootThumbProximal",
+        "RightLowerLeg",
+        "RightToes"
+      ]
+    }
+  ]
+,
+  "invertedBlendShapeFields": [
+    {
+      "label": "Breasts_big",
+      "filePath": "deformation_lime_shape_Breasts_big_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "RightBreast",
+        "RightShoulder",
+        "Spine"
+      ]
+    },
+    {
+      "label": "Breasts_small",
+      "filePath": "deformation_lime_shape_Breasts_small_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "RightBreast",
+        "RightShoulder",
+        "Spine"
+      ]
+    },
+    {
+      "label": "Foot_HighHeel",
+      "filePath": "deformation_lime_shape_Foot_HighHeel_inv.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftFootIndexDistal",
+        "LeftFootIndexIntermediate",
+        "LeftFootIndexProximal",
+        "LeftFootLittleDistal",
+        "LeftFootLittleIntermediate",
+        "LeftFootLittleProximal",
+        "LeftFootMiddleDistal",
+        "LeftFootMiddleIntermediate",
+        "LeftFootMiddleProximal",
+        "LeftFootRingDistal",
+        "LeftFootRingIntermediate",
+        "LeftFootRingProximal",
+        "LeftFootThumbDistal",
+        "LeftFootThumbIntermediate",
+        "LeftFootThumbProximal",
+        "LeftLowerLeg",
+        "LeftToes",
+        "RightFoot",
+        "RightFootIndexDistal",
+        "RightFootIndexIntermediate",
+        "RightFootIndexProximal",
+        "RightFootLittleDistal",
+        "RightFootLittleIntermediate",
+        "RightFootLittleProximal",
+        "RightFootMiddleDistal",
+        "RightFootMiddleIntermediate",
+        "RightFootMiddleProximal",
+        "RightFootRingDistal",
+        "RightFootRingIntermediate",
+        "RightFootRingProximal",
+        "RightFootThumbDistal",
+        "RightFootThumbIntermediate",
+        "RightFootThumbProximal",
+        "RightLowerLeg",
+        "RightToes"
+      ]
+    }
+  ]
+}

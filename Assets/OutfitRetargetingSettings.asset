@@ -12,24 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 37567586, guid: 4da6d05567333e244ab2155abc025482, type: 3}
   m_Name: OutfitRetargetingSettings
   m_EditorClassIdentifier: 
-  targetPrefab: {fileID: 0}
-  baseFbxAsset: {fileID: 919132149155446097, guid: f6f423622bad64446a77c3453cb75ed6,
+  targetPrefab: {fileID: 6542941921727914438, guid: a4d37e5ea00995040b5cd402c167bcf7,
     type: 3}
-  configJsonAsset: {fileID: 4900000, guid: a42385d86b8c87e48a0039fc53f37f75, type: 3}
-  selectedTargetAvatarIndex: 0
-  selectedSourceAvatarIndex: 0
-  selectedTargetAvatarName: Beryl
-  selectedSourceAvatarName: Kikyo
+  baseFbxAsset: {fileID: 919132149155446097, guid: 84c0e1b0a08e28b498a0c947429cef41,
+    type: 3}
+  configJsonAsset: {fileID: 4900000, guid: 131cba7b7af7fa24d81178d432eba214, type: 3}
+  selectedTargetAvatarIndex: 7
+  selectedSourceAvatarIndex: 5
+  selectedTargetAvatarName: Suiha
+  selectedSourceAvatarName: Rinasciita
   blendShapeSelectionKeys:
-  - Breasts_big
-  - Breasts_small
-  - Toe_highheels
-  blendShapeSelectionValues: 000000
+  - Breast_big
+  - Breast_small
+  - Breast_flat
+  - High heels
+  - thigh-high socks1_cut into
+  - thigh-high socks2_cut into
+  blendShapeSelectionValues: 000000000000
   blendShapeValueKeys:
-  - Breasts_big
-  - Breasts_small
-  - Toe_highheels
+  - Breast_big
+  - Breast_small
+  - Breast_flat
+  - High heels
+  - thigh-high socks1_cut into
+  - thigh-high socks2_cut into
   blendShapeValueValues:
+  - 100
+  - 100
+  - 100
   - 100
   - 100
   - 100

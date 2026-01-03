@@ -1,0 +1,16 @@
+{
+    "poseDataPath": "posediff_template_to_suiha.json",
+    "fieldDataPath": "deformation_template_to_suiha.npz",
+    "sourceBlendShapeSettings": [
+        {
+            "name": "Breasts_flat",
+            "value": 0.1150439977645874
+        }
+    ],
+    "targetBlendShapeSettings": [],
+    "blendShapeFields": [],
+    "baseAvatarDataPath": "avatar_data_suiha.json",
+    "clothingAvatarDataPath": "avatar_data_template.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}

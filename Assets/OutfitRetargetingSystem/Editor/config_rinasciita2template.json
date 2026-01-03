@@ -1,0 +1,16 @@
+{
+    "poseDataPath": "posediff_rinasciita_to_template.json",
+    "fieldDataPath": "deformation_rinasciita_to_template.npz",
+    "sourceBlendShapeSettings": [
+        {
+            "name": "Breast_small",
+            "value": 0.5
+        }
+    ],
+    "targetBlendShapeSettings": [],
+    "blendShapeFields": [],
+    "baseAvatarDataPath": "avatar_data_template.json",
+    "clothingAvatarDataPath": "avatar_data_rinasciita.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}

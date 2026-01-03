@@ -1,0 +1,130 @@
+{
+    "poseDataPath": "posediff_lime_to_template.json",
+    "fieldDataPath": "deformation_lime_to_template.npz",
+    "sourceBlendShapeSettings": [],
+    "targetBlendShapeSettings": [
+        {
+            "name": "Breasts_flat",
+            "value": 0.11999999731779099
+        }
+    ],
+    "blendShapeFields": [
+        {
+            "label": "Breasts_big",
+            "sourceLabel": "Breasts_big",
+            "path": "deformation_lime_to_template_breasts_big.npz",
+            "maskBones": [
+                "LeftBreast",
+                "RightBreast",
+                "Chest",
+                "Spine",
+                "LeftShoulder",
+                "RightShoulder"
+            ],
+            "sourceBlendShapeSettings": [
+                {
+                    "name": "Breasts_big",
+                    "value": 1.0
+                }
+            ],
+            "targetBlendShapeSettings": [
+                {
+                    "name": "Breasts_big",
+                    "value": 0.6200000047683716
+                },
+                {
+                    "name": "Breasts_flat",
+                    "value": 0.11999999731779099
+                }
+            ]
+        },
+        {
+            "label": "Breasts_flat",
+            "sourceLabel": "Breasts_small",
+            "path": "deformation_lime_to_template_Breasts_small.npz",
+            "maskBones": [
+                "LeftBreast",
+                "RightBreast",
+                "Chest",
+                "Spine",
+                "LeftShoulder",
+                "RightShoulder"
+            ],
+            "sourceBlendShapeSettings": [
+                {
+                    "name": "Breasts_small",
+                    "value": 1.0
+                }
+            ],
+            "targetBlendShapeSettings": [
+                {
+                    "name": "Breasts_flat",
+                    "value": 0.6299999952316284
+                }
+            ]
+        },
+        {
+            "label": "Highheels",
+            "sourceLabel": "Foot_HighHeel",
+            "path": "deformation_lime_to_template_highheels.npz",
+            "maskBones": [
+                "LeftLowerLeg",
+                "RightLowerLeg",
+                "LeftFoot",
+                "RightFoot",
+                "LeftToes",
+                "RightToes",
+                "LeftFootThumbProximal",
+                "LeftFootThumbIntermediate",
+                "LeftFootThumbDistal",
+                "LeftFootIndexProximal",
+                "LeftFootIndexIntermediate",
+                "LeftFootIndexDistal",
+                "LeftFootMiddleProximal",
+                "LeftFootMiddleIntermediate",
+                "LeftFootMiddleDistal",
+                "LeftFootRingProximal",
+                "LeftFootRingIntermediate",
+                "LeftFootRingDistal",
+                "LeftFootLittleProximal",
+                "LeftFootLittleIntermediate",
+                "LeftFootLittleDistal",
+                "RightFootThumbProximal",
+                "RightFootThumbIntermediate",
+                "RightFootThumbDistal",
+                "RightFootIndexProximal",
+                "RightFootIndexIntermediate",
+                "RightFootIndexDistal",
+                "RightFootMiddleProximal",
+                "RightFootMiddleIntermediate",
+                "RightFootMiddleDistal",
+                "RightFootRingProximal",
+                "RightFootRingIntermediate",
+                "RightFootRingDistal",
+                "RightFootLittleProximal",
+                "RightFootLittleIntermediate",
+                "RightFootLittleDistal"
+            ],
+            "sourceBlendShapeSettings": [
+                {
+                    "name": "Foot_HighHeel",
+                    "value": 1.0
+                }
+            ],
+            "targetBlendShapeSettings": [
+                {
+                    "name": "Highheels",
+                    "value": 0.8500000238418579
+                },
+                {
+                    "name": "Breasts_flat",
+                    "value": 0.11999999731779099
+                }
+            ]
+        }
+    ],
+    "baseAvatarDataPath": "avatar_data_template.json",
+    "clothingAvatarDataPath": "avatar_data_lime.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}

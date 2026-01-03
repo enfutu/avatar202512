@@ -1,0 +1,1358 @@
+{
+  "name": "Suiha",
+  "defaultFBXPath": "Assets/ARASAKI/Suiha/FBX/Suiha.fbx",
+  "meshName": "body_all",
+  "height": 1.222914,
+  "basePose": "pose_basis_suiha.json",
+  "enableAutomaticBoneOrientation": 0,
+  "blendshapes": [
+    {
+      "name": "heel",
+      "value": 0.000
+    },
+    {
+      "name": "shoulder_down",
+      "value": 0.000
+    },
+    {
+      "name": "----------Shrink----------",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_neck",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_sholder",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_UpperArm",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_elbow",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_LowerArm",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_wrist",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_glove",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_finger",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_UpperChest",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_chest",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_spine",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_hips1",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_hips2",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_UpperLeg1",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_UpperLeg2",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_knee",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_LowerLeg",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_ankle",
+      "value": 0.000
+    },
+    {
+      "name": "Shrink_foot",
+      "value": 0.000
+    },
+    {
+      "name": "----------Breast----------",
+      "value": 0.000
+    },
+    {
+      "name": "Breast_big",
+      "value": 0.000
+    },
+    {
+      "name": "Breast_small",
+      "value": 0.000
+    },
+    {
+      "name": "Breast_flat",
+      "value": 0.000
+    },
+    {
+      "name": "Nipples_on",
+      "value": 0.000
+    },
+    {
+      "name": "Areola_big",
+      "value": 0.000
+    }
+  ],
+  "humanoidBones": [
+    {
+      "humanoidBoneName": "Hips",
+      "boneName": "Hips"
+    },
+    {
+      "humanoidBoneName": "LeftUpperLeg",
+      "boneName": "UpperLeg_L"
+    },
+    {
+      "humanoidBoneName": "RightUpperLeg",
+      "boneName": "UpperLeg_R"
+    },
+    {
+      "humanoidBoneName": "LeftLowerLeg",
+      "boneName": "LowerLeg_L"
+    },
+    {
+      "humanoidBoneName": "RightLowerLeg",
+      "boneName": "LowerLeg_R"
+    },
+    {
+      "humanoidBoneName": "LeftFoot",
+      "boneName": "Foot_L"
+    },
+    {
+      "humanoidBoneName": "RightFoot",
+      "boneName": "Foot_R"
+    },
+    {
+      "humanoidBoneName": "Spine",
+      "boneName": "Spine"
+    },
+    {
+      "humanoidBoneName": "Chest",
+      "boneName": "Chest"
+    },
+    {
+      "humanoidBoneName": "Neck",
+      "boneName": "Neck"
+    },
+    {
+      "humanoidBoneName": "Head",
+      "boneName": "Head"
+    },
+    {
+      "humanoidBoneName": "LeftShoulder",
+      "boneName": "Shoulder_L"
+    },
+    {
+      "humanoidBoneName": "RightShoulder",
+      "boneName": "Shoulder_R"
+    },
+    {
+      "humanoidBoneName": "LeftUpperArm",
+      "boneName": "UpperArm_L"
+    },
+    {
+      "humanoidBoneName": "RightUpperArm",
+      "boneName": "UpperArm_R"
+    },
+    {
+      "humanoidBoneName": "LeftLowerArm",
+      "boneName": "LowerArm_L"
+    },
+    {
+      "humanoidBoneName": "RightLowerArm",
+      "boneName": "LowerArm_R"
+    },
+    {
+      "humanoidBoneName": "LeftHand",
+      "boneName": "Hand_L"
+    },
+    {
+      "humanoidBoneName": "RightHand",
+      "boneName": "Hand_R"
+    },
+    {
+      "humanoidBoneName": "LeftToes",
+      "boneName": "Toe_L"
+    },
+    {
+      "humanoidBoneName": "RightToes",
+      "boneName": "Toe_R"
+    },
+    {
+      "humanoidBoneName": "LeftEye",
+      "boneName": "Eye_L"
+    },
+    {
+      "humanoidBoneName": "RightEye",
+      "boneName": "Eye_R"
+    },
+    {
+      "humanoidBoneName": "Jaw",
+      "boneName": "FrontHair.002"
+    },
+    {
+      "humanoidBoneName": "LeftThumbProximal",
+      "boneName": "ThumbProximal_L"
+    },
+    {
+      "humanoidBoneName": "LeftThumbIntermediate",
+      "boneName": "ThumbIntermediate_L"
+    },
+    {
+      "humanoidBoneName": "LeftThumbDistal",
+      "boneName": "ThumbDistal_L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexProximal",
+      "boneName": "IndexProximal_L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexIntermediate",
+      "boneName": "IndexIntermediate_L"
+    },
+    {
+      "humanoidBoneName": "LeftIndexDistal",
+      "boneName": "IndexDistal_L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleProximal",
+      "boneName": "MiddleProximal_L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleIntermediate",
+      "boneName": "MiddleIntermediate_L"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleDistal",
+      "boneName": "MiddleDistal_L"
+    },
+    {
+      "humanoidBoneName": "LeftRingProximal",
+      "boneName": "RingProximal_L"
+    },
+    {
+      "humanoidBoneName": "LeftRingIntermediate",
+      "boneName": "RingIntermediate_L"
+    },
+    {
+      "humanoidBoneName": "LeftRingDistal",
+      "boneName": "RingDistal_L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleProximal",
+      "boneName": "LittleProximal_L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleIntermediate",
+      "boneName": "LittleIntermediate_L"
+    },
+    {
+      "humanoidBoneName": "LeftLittleDistal",
+      "boneName": "LittleDistal_L"
+    },
+    {
+      "humanoidBoneName": "RightThumbProximal",
+      "boneName": "ThumbProximal_R"
+    },
+    {
+      "humanoidBoneName": "RightThumbIntermediate",
+      "boneName": "ThumbIntermediate_R"
+    },
+    {
+      "humanoidBoneName": "RightThumbDistal",
+      "boneName": "ThumbDistal_R"
+    },
+    {
+      "humanoidBoneName": "RightIndexProximal",
+      "boneName": "IndexProximal_R"
+    },
+    {
+      "humanoidBoneName": "RightIndexIntermediate",
+      "boneName": "IndexIntermediate_R"
+    },
+    {
+      "humanoidBoneName": "RightIndexDistal",
+      "boneName": "IndexDistal_R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleProximal",
+      "boneName": "MiddleProximal_R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleIntermediate",
+      "boneName": "MiddleIntermediate_R"
+    },
+    {
+      "humanoidBoneName": "RightMiddleDistal",
+      "boneName": "MiddleDistal_R"
+    },
+    {
+      "humanoidBoneName": "RightRingProximal",
+      "boneName": "RingProximal_R"
+    },
+    {
+      "humanoidBoneName": "RightRingIntermediate",
+      "boneName": "RingIntermediate_R"
+    },
+    {
+      "humanoidBoneName": "RightRingDistal",
+      "boneName": "RingDistal_R"
+    },
+    {
+      "humanoidBoneName": "RightLittleProximal",
+      "boneName": "LittleProximal_R"
+    },
+    {
+      "humanoidBoneName": "RightLittleIntermediate",
+      "boneName": "LittleIntermediate_R"
+    },
+    {
+      "humanoidBoneName": "RightLittleDistal",
+      "boneName": "LittleDistal_R"
+    },
+    {
+      "humanoidBoneName": "LeftBreast",
+      "boneName": "Breast_L"
+    },
+    {
+      "humanoidBoneName": "RightBreast",
+      "boneName": "Breast_R"
+    }
+  ],
+  "boneHierarchy": 
+    {
+      "name": "Suiha_edit",
+      "children": [
+        {
+          "name": "Armature",
+          "children": [
+            {
+              "name": "Hips",
+              "children": [
+                {
+                  "name": "Spine",
+                  "children": [
+                    {
+                      "name": "Chest",
+                      "children": [
+                        {
+                          "name": "Breast_L",
+                          "children": [
+                            {
+                              "name": "Breast_L.001",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Breast_R",
+                          "children": [
+                            {
+                              "name": "Breast_R.001",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Neck",
+                          "children": [
+                            {
+                              "name": "Head",
+                              "children": [
+                                {
+                                  "name": "Eye_L",
+                                  "children": [
+                                  ]
+                                },
+                                {
+                                  "name": "Eye_R",
+                                  "children": [
+                                  ]
+                                },
+                                {
+                                  "name": "FrontHair.001",
+                                  "children": [
+                                    {
+                                      "name": "FrontHair.002",
+                                      "children": [
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shoulder_L",
+                          "children": [
+                            {
+                              "name": "UpperArm_L",
+                              "children": [
+                                {
+                                  "name": "LowerArm_L",
+                                  "children": [
+                                    {
+                                      "name": "Hand_L",
+                                      "children": [
+                                        {
+                                          "name": "IndexProximal_L",
+                                          "children": [
+                                            {
+                                              "name": "IndexIntermediate_L",
+                                              "children": [
+                                                {
+                                                  "name": "IndexDistal_L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "LittleProximal_L",
+                                          "children": [
+                                            {
+                                              "name": "LittleIntermediate_L",
+                                              "children": [
+                                                {
+                                                  "name": "LittleDistal_L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "MiddleProximal_L",
+                                          "children": [
+                                            {
+                                              "name": "MiddleIntermediate_L",
+                                              "children": [
+                                                {
+                                                  "name": "MiddleDistal_L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "RingProximal_L",
+                                          "children": [
+                                            {
+                                              "name": "RingIntermediate_L",
+                                              "children": [
+                                                {
+                                                  "name": "RingDistal_L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ThumbProximal_L",
+                                          "children": [
+                                            {
+                                              "name": "ThumbIntermediate_L",
+                                              "children": [
+                                                {
+                                                  "name": "ThumbDistal_L",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "LowerArm_twist_L",
+                                      "children": [
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Upper_Twist_L",
+                                  "children": [
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shoulder_R",
+                          "children": [
+                            {
+                              "name": "UpperArm_R",
+                              "children": [
+                                {
+                                  "name": "LowerArm_R",
+                                  "children": [
+                                    {
+                                      "name": "Hand_R",
+                                      "children": [
+                                        {
+                                          "name": "IndexProximal_R",
+                                          "children": [
+                                            {
+                                              "name": "IndexIntermediate_R",
+                                              "children": [
+                                                {
+                                                  "name": "IndexDistal_R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "LittleProximal_R",
+                                          "children": [
+                                            {
+                                              "name": "LittleIntermediate_R",
+                                              "children": [
+                                                {
+                                                  "name": "LittleDistal_R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "MiddleProximal_R",
+                                          "children": [
+                                            {
+                                              "name": "MiddleIntermediate_R",
+                                              "children": [
+                                                {
+                                                  "name": "MiddleDistal_R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "RingProximal_R",
+                                          "children": [
+                                            {
+                                              "name": "RingIntermediate_R",
+                                              "children": [
+                                                {
+                                                  "name": "RingDistal_R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ThumbProximal_R",
+                                          "children": [
+                                            {
+                                              "name": "ThumbIntermediate_R",
+                                              "children": [
+                                                {
+                                                  "name": "ThumbDistal_R",
+                                                  "children": [
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "LowerArm_twist_R",
+                                      "children": [
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Upper_Twist_R",
+                                  "children": [
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "UpperLeg_L",
+                  "children": [
+                    {
+                      "name": "LowerLeg_L",
+                      "children": [
+                        {
+                          "name": "Foot_L",
+                          "children": [
+                            {
+                              "name": "Toe_L",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "UpperLeg_R",
+                  "children": [
+                    {
+                      "name": "LowerLeg_R",
+                      "children": [
+                        {
+                          "name": "Foot_R",
+                          "children": [
+                            {
+                              "name": "Toe_R",
+                              "children": [
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+  "auxiliaryBones": [
+    {
+      "humanoidBoneName": "LeftUpperArm",
+      "auxiliaryBones": [
+        "Upper_Twist_L"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightUpperArm",
+      "auxiliaryBones": [
+        "Upper_Twist_R"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftLowerArm",
+      "auxiliaryBones": [
+        "LowerArm_twist_L"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightLowerArm",
+      "auxiliaryBones": [
+        "LowerArm_twist_R"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftBreast",
+      "auxiliaryBones": [
+        "Breast_L.001"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightBreast",
+      "auxiliaryBones": [
+        "Breast_R.001"
+      ]
+    }
+  ],
+  "commonSwaySettings": {
+    "startDistance": 0.025,
+    "endDistance": 0.050
+  },
+  "swayBones": [
+  ],
+  "boneComponents": [
+    {
+      "boneName": "Spine",
+      "componentType": "VRC.SDK3.Dynamics.Contact.Components.VRCContactReceiver",
+      "properties": {
+        "shapeType": "1",
+        "radius": "0.0008",
+        "height": "0.0025",
+        "position": "(0.001000, -0.001000, 0.000500)",
+        "rotation": "(0.653282, -0.270598, 0.270598, 0.653282)",
+        "localOnly": false,
+        "collisionTags.Array.size": "1",
+        "collisionTags.Array.data[0]": "HandR",
+        "allowSelf": true,
+        "allowOthers": false,
+        "receiverType": "0",
+        "parameter": "WrenchReady",
+        "minVelocity": "0.05"
+      }
+    },
+    {
+      "boneName": "Head",
+      "componentType": "VRC.SDK3.Dynamics.PhysBone.Components.VRCPhysBoneCollider",
+      "properties": {
+        "shapeType": "1",
+        "insideBounds": false,
+        "radius": "0.0006",
+        "height": "0.002",
+        "position": "(0.000000, 0.000400, 0.000000)",
+        "rotation": "(0.000000, 0.000000, 0.000000, 1.000000)",
+        "bonesAsSpheres": false
+      }
+    },
+    {
+      "boneName": "Shoulder_L",
+      "componentType": "VRC.SDK3.Dynamics.PhysBone.Components.VRCPhysBoneCollider",
+      "properties": {
+        "shapeType": "1",
+        "insideBounds": false,
+        "radius": "0.0003",
+        "height": "0.0018",
+        "position": "(0.000000, 0.000500, 0.000000)",
+        "rotation": "(0.000000, 0.000000, 0.000000, 1.000000)",
+        "bonesAsSpheres": false
+      }
+    },
+    {
+      "boneName": "Shoulder_R",
+      "componentType": "VRC.SDK3.Dynamics.PhysBone.Components.VRCPhysBoneCollider",
+      "properties": {
+        "shapeType": "1",
+        "insideBounds": false,
+        "radius": "0.0003",
+        "height": "0.0018",
+        "position": "(0.000000, 0.000500, 0.000000)",
+        "rotation": "(0.000000, 0.000000, 0.000000, 1.000000)",
+        "bonesAsSpheres": false
+      }
+    },
+    {
+      "boneName": "Upper_Twist_L",
+      "componentType": "VRC.SDK3.Dynamics.Constraint.Components.VRCRotationConstraint",
+      "properties": {
+        "IsActive": true,
+        "GlobalWeight": "0.5",
+        "SolveInLocalSpace": false,
+        "FreezeToWorld": false,
+        "RebakeOffsetsWhenUnfrozen": false,
+        "Locked": true,
+        "Sources.source0.SourceTransform": "LowerArm_L",
+        "Sources.source0.Weight": "1",
+        "Sources.source0.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source0.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.Weight": "0",
+        "Sources.source1.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.Weight": "0",
+        "Sources.source2.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.Weight": "0",
+        "Sources.source3.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.Weight": "0",
+        "Sources.source4.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.Weight": "0",
+        "Sources.source5.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.Weight": "0",
+        "Sources.source6.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.Weight": "0",
+        "Sources.source7.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.Weight": "0",
+        "Sources.source8.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.Weight": "0",
+        "Sources.source9.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.Weight": "0",
+        "Sources.source10.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.Weight": "0",
+        "Sources.source11.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.Weight": "0",
+        "Sources.source12.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.Weight": "0",
+        "Sources.source13.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.Weight": "0",
+        "Sources.source14.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.Weight": "0",
+        "Sources.source15.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.overflowList.Array.size": "0",
+        "RotationAtRest": "(-0.183991, 0.149056, 1.480000)",
+        "RotationOffset": "(-0.000485, 0.000000, 0.000178)",
+        "AffectsRotationX": false,
+        "AffectsRotationY": true,
+        "AffectsRotationZ": false
+      }
+    },
+    {
+      "boneName": "Upper_Twist_R",
+      "componentType": "VRC.SDK3.Dynamics.Constraint.Components.VRCRotationConstraint",
+      "properties": {
+        "IsActive": true,
+        "GlobalWeight": "0.5",
+        "SolveInLocalSpace": false,
+        "FreezeToWorld": false,
+        "RebakeOffsetsWhenUnfrozen": false,
+        "Locked": true,
+        "Sources.source0.SourceTransform": "LowerArm_R",
+        "Sources.source0.Weight": "1",
+        "Sources.source0.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source0.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.Weight": "0",
+        "Sources.source1.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.Weight": "0",
+        "Sources.source2.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.Weight": "0",
+        "Sources.source3.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.Weight": "0",
+        "Sources.source4.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.Weight": "0",
+        "Sources.source5.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.Weight": "0",
+        "Sources.source6.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.Weight": "0",
+        "Sources.source7.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.Weight": "0",
+        "Sources.source8.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.Weight": "0",
+        "Sources.source9.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.Weight": "0",
+        "Sources.source10.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.Weight": "0",
+        "Sources.source11.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.Weight": "0",
+        "Sources.source12.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.Weight": "0",
+        "Sources.source13.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.Weight": "0",
+        "Sources.source14.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.Weight": "0",
+        "Sources.source15.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.overflowList.Array.size": "0",
+        "RotationAtRest": "(-0.091003, -0.075134, -0.739990)",
+        "RotationOffset": "(0.090573, 0.076294, 0.740067)",
+        "AffectsRotationX": false,
+        "AffectsRotationY": true,
+        "AffectsRotationZ": false
+      }
+    },
+    {
+      "boneName": "LowerArm_twist_L",
+      "componentType": "VRC.SDK3.Dynamics.Constraint.Components.VRCRotationConstraint",
+      "properties": {
+        "IsActive": true,
+        "GlobalWeight": "0.5",
+        "SolveInLocalSpace": false,
+        "FreezeToWorld": false,
+        "RebakeOffsetsWhenUnfrozen": false,
+        "Locked": true,
+        "Sources.source0.SourceTransform": "Hand_L",
+        "Sources.source0.Weight": "1",
+        "Sources.source0.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source0.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.Weight": "0",
+        "Sources.source1.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.Weight": "0",
+        "Sources.source2.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.Weight": "0",
+        "Sources.source3.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.Weight": "0",
+        "Sources.source4.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.Weight": "0",
+        "Sources.source5.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.Weight": "0",
+        "Sources.source6.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.Weight": "0",
+        "Sources.source7.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.Weight": "0",
+        "Sources.source8.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.Weight": "0",
+        "Sources.source9.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.Weight": "0",
+        "Sources.source10.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.Weight": "0",
+        "Sources.source11.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.Weight": "0",
+        "Sources.source12.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.Weight": "0",
+        "Sources.source13.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.Weight": "0",
+        "Sources.source14.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.Weight": "0",
+        "Sources.source15.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.overflowList.Array.size": "0",
+        "RotationAtRest": "(-1.858246, -1.448517, -0.725494)",
+        "RotationOffset": "(2.030266, -0.013916, -0.756165)",
+        "AffectsRotationX": false,
+        "AffectsRotationY": true,
+        "AffectsRotationZ": false
+      }
+    },
+    {
+      "boneName": "LowerArm_twist_R",
+      "componentType": "VRC.SDK3.Dynamics.Constraint.Components.VRCRotationConstraint",
+      "properties": {
+        "IsActive": true,
+        "GlobalWeight": "0.5",
+        "SolveInLocalSpace": false,
+        "FreezeToWorld": false,
+        "RebakeOffsetsWhenUnfrozen": false,
+        "Locked": true,
+        "Sources.source0.SourceTransform": "Hand_R",
+        "Sources.source0.Weight": "1",
+        "Sources.source0.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source0.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.Weight": "0",
+        "Sources.source1.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source1.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.Weight": "0",
+        "Sources.source2.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source2.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.Weight": "0",
+        "Sources.source3.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source3.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.Weight": "0",
+        "Sources.source4.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source4.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.Weight": "0",
+        "Sources.source5.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source5.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.Weight": "0",
+        "Sources.source6.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source6.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.Weight": "0",
+        "Sources.source7.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source7.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.Weight": "0",
+        "Sources.source8.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source8.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.Weight": "0",
+        "Sources.source9.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source9.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.Weight": "0",
+        "Sources.source10.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source10.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.Weight": "0",
+        "Sources.source11.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source11.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.Weight": "0",
+        "Sources.source12.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source12.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.Weight": "0",
+        "Sources.source13.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source13.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.Weight": "0",
+        "Sources.source14.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source14.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.Weight": "0",
+        "Sources.source15.ParentPositionOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.source15.ParentRotationOffset": "(0.000000, 0.000000, 0.000000)",
+        "Sources.overflowList.Array.size": "0",
+        "RotationAtRest": "(-1.872345, -1.448120, -0.737549)",
+        "RotationOffset": "(2.013052, -2.882996, -0.903412)",
+        "AffectsRotationX": false,
+        "AffectsRotationY": true,
+        "AffectsRotationZ": false
+      }
+    }
+  ],
+  "shrinkBlendShapes": [
+    {
+      "boneName": "Shrink_Hips",
+      "blendShapes": [
+        {
+          "name": "Shrink_hips1",
+          "index": 14,
+          "weight": 100.0
+        },
+        {
+          "name": "Shrink_hips2",
+          "index": 15,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftUpperLeg",
+      "blendShapes": [
+        {
+          "name": "Shrink_UpperLeg1",
+          "index": 16,
+          "weight": 100.0
+        },
+        {
+          "name": "Shrink_UpperLeg2",
+          "index": 17,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightUpperLeg",
+      "blendShapes": [
+        {
+          "name": "Shrink_UpperLeg1",
+          "index": 16,
+          "weight": 100.0
+        },
+        {
+          "name": "Shrink_UpperLeg2",
+          "index": 17,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftLowerLeg",
+      "blendShapes": [
+        {
+          "name": "Shrink_LowerLeg",
+          "index": 19,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightLowerLeg",
+      "blendShapes": [
+        {
+          "name": "Shrink_LowerLeg",
+          "index": 19,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftFoot",
+      "blendShapes": [
+        {
+          "name": "Shrink_foot",
+          "index": 21,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightFoot",
+      "blendShapes": [
+        {
+          "name": "Shrink_foot",
+          "index": 21,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Spine",
+      "blendShapes": [
+        {
+          "name": "Shrink_spine",
+          "index": 13,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Chest",
+      "blendShapes": [
+        {
+          "name": "Shrink_chest",
+          "index": 12,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_Neck",
+      "blendShapes": [
+        {
+          "name": "Shrink_neck",
+          "index": 3,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftShoulder",
+      "blendShapes": [
+        {
+          "name": "Shrink_sholder",
+          "index": 4,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightShoulder",
+      "blendShapes": [
+        {
+          "name": "Shrink_sholder",
+          "index": 4,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftUpperArm",
+      "blendShapes": [
+        {
+          "name": "Shrink_UpperArm",
+          "index": 5,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightUpperArm",
+      "blendShapes": [
+        {
+          "name": "Shrink_UpperArm",
+          "index": 5,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftLowerArm",
+      "blendShapes": [
+        {
+          "name": "Shrink_LowerArm",
+          "index": 7,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightLowerArm",
+      "blendShapes": [
+        {
+          "name": "Shrink_LowerArm",
+          "index": 7,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftHand",
+      "blendShapes": [
+        {
+          "name": "Shrink_glove",
+          "index": 9,
+          "weight": 100.0
+        },
+        {
+          "name": "Shrink_finger",
+          "index": 10,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightHand",
+      "blendShapes": [
+        {
+          "name": "Shrink_glove",
+          "index": 9,
+          "weight": 100.0
+        },
+        {
+          "name": "Shrink_finger",
+          "index": 10,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftBreast",
+      "blendShapes": [
+        {
+          "name": "Breast_flat",
+          "index": 25,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightBreast",
+      "blendShapes": [
+        {
+          "name": "Breast_flat",
+          "index": 25,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftElbow",
+      "blendShapes": [
+        {
+          "name": "Shrink_elbow",
+          "index": 6,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightElbow",
+      "blendShapes": [
+        {
+          "name": "Shrink_elbow",
+          "index": 6,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftWrist",
+      "blendShapes": [
+        {
+          "name": "Shrink_wrist",
+          "index": 8,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightWrist",
+      "blendShapes": [
+        {
+          "name": "Shrink_wrist",
+          "index": 8,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftKnee",
+      "blendShapes": [
+        {
+          "name": "Shrink_knee",
+          "index": 18,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightKnee",
+      "blendShapes": [
+        {
+          "name": "Shrink_knee",
+          "index": 18,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_LeftAnkle",
+      "blendShapes": [
+        {
+          "name": "Shrink_ankle",
+          "index": 20,
+          "weight": 100.0
+        }
+      ]
+    },
+    {
+      "boneName": "Shrink_RightAnkle",
+      "blendShapes": [
+        {
+          "name": "Shrink_ankle",
+          "index": 20,
+          "weight": 100.0
+        }
+      ]
+    }
+  ],
+  "blendShapeFields": [
+  ]
+,
+  "invertedBlendShapeFields": [
+  ]
+}

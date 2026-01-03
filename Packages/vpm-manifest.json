@@ -26,6 +26,9 @@
     },
     "jp.suzuryg.face-emo": {
       "version": "1.6.3"
+    },
+    "net.nekobako.mask-texture-editor": {
+      "version": "1.2.1"
     }
   },
   "locked": {
@@ -85,6 +88,10 @@
     },
     "jp.suzuryg.face-emo": {
       "version": "1.6.3",
+      "dependencies": {}
+    },
+    "net.nekobako.mask-texture-editor": {
+      "version": "1.2.1",
       "dependencies": {}
     }
   }

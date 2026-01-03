@@ -244,6 +244,12 @@
         "com.unity.modules.animation": "1.0.0"
       }
     },
+    "net.nekobako.mask-texture-editor": {
+      "version": "file:net.nekobako.mask-texture-editor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

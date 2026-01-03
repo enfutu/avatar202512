@@ -1,0 +1,16 @@
+{
+    "poseDataPath": "posediff_plushead_to_template.json",
+    "fieldDataPath": "deformation_plushead_to_template.npz",
+    "sourceBlendShapeSettings": [],
+    "targetBlendShapeSettings": [
+        {
+            "name": "Breasts_flat",
+            "value": 1.0
+        }
+    ],
+    "blendShapeFields": [],
+    "baseAvatarDataPath": "avatar_data_template.json",
+    "clothingAvatarDataPath": "avatar_data_plushead.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}
