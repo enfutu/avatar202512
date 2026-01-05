@@ -21,14 +21,14 @@
     "nadena.dev.modular-avatar": {
       "version": "1.16.0-alpha.0"
     },
-    "jp.unisakistudio.kawaiiposing": {
-      "version": "3.0.0-alpha.2"
-    },
     "jp.suzuryg.face-emo": {
       "version": "1.6.3"
     },
     "net.nekobako.mask-texture-editor": {
       "version": "1.2.1"
+    },
+    "jp.unisakistudio.kawaiiposing": {
+      "version": "3.0.2"
     }
   },
   "locked": {
@@ -73,19 +73,6 @@
         "nadena.dev.ndmf": ">=1.10.0 <2.0.0-a"
       }
     },
-    "jp.unisakistudio.kawaiiposing": {
-      "version": "3.0.0-alpha.2",
-      "dependencies": {
-        "jp.unisakistudio.posingsystem": "^3.0.0-alpha.2"
-      }
-    },
-    "jp.unisakistudio.posingsystem": {
-      "version": "3.0.0-alpha.2",
-      "dependencies": {
-        "nadena.dev.modular-avatar": "^1.15.1",
-        "nadena.dev.ndmf": "^1.10.0"
-      }
-    },
     "jp.suzuryg.face-emo": {
       "version": "1.6.3",
       "dependencies": {}
@@ -93,6 +80,19 @@
     "net.nekobako.mask-texture-editor": {
       "version": "1.2.1",
       "dependencies": {}
+    },
+    "jp.unisakistudio.kawaiiposing": {
+      "version": "3.0.2",
+      "dependencies": {
+        "jp.unisakistudio.posingsystem": "^3.0.3"
+      }
+    },
+    "jp.unisakistudio.posingsystem": {
+      "version": "3.0.3",
+      "dependencies": {
+        "nadena.dev.modular-avatar": "^1.15.1",
+        "nadena.dev.ndmf": "^1.10.1"
+      }
     }
   }
 }

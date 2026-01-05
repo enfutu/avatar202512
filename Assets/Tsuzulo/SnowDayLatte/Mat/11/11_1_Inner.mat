@@ -622,7 +622,7 @@ Material:
     - _UseParallax: 0
     - _UseReflection: 1
     - _UseRim: 0
-    - _UseRimShade: 1
+    - _UseRimShade: 0
     - _UseShadow: 1
     - _VertexLightStrength: 0
     - _ZClip: 1

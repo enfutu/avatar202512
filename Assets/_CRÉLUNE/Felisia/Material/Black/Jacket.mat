@@ -47,9 +47,20 @@ Material:
     m_Floats:
     - _OutlineWidth: 0.04
     - _RimShadeBorder: 0.337
+    - _Shadow2ndBlur: 0.214
+    - _Shadow2ndBorder: 0.403
+    - _Shadow2ndReceive: 1
+    - _ShadowBlur: 0.442
+    - _ShadowBorder: 0.615
+    - _ShadowBorderRange: 0.08
+    - _ShadowMainStrength: 0.5
+    - _ShadowReceive: 1
+    - _UseRimShade: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _MainTexHSVG: {r: 0, g: 1, b: 1, a: 1}
-    - _ShadowBorderColor: {r: 0.60784316, g: 0.88235295, b: 1, a: 1}
+    - _Shadow2ndColor: {r: 0.19228333, g: 0.2525064, b: 0.27358449, a: 0.568}
+    - _ShadowBorderColor: {r: 0.42452827, g: 0.41910973, b: 0.4185208, a: 1}
+    - _ShadowColor: {r: 0.9669811, g: 0.99068695, b: 1, a: 1}
   m_BuildTextureStacks: []

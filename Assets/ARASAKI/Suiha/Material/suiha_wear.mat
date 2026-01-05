@@ -512,24 +512,24 @@ Material:
     - _RimShadeNormalStrength: 0.25
     - _RimShadowMask: 0.5
     - _RimVRParallaxStrength: 1
-    - _Shadow2ndBlur: 0.107
-    - _Shadow2ndBorder: 1
+    - _Shadow2ndBlur: 0.214
+    - _Shadow2ndBorder: 0.403
     - _Shadow2ndNormalStrength: 1
-    - _Shadow2ndReceive: 0
-    - _Shadow3rdBlur: 0.044
-    - _Shadow3rdBorder: 0.21
+    - _Shadow2ndReceive: 1
+    - _Shadow3rdBlur: 0.1
+    - _Shadow3rdBorder: 0.25
     - _Shadow3rdNormalStrength: 1
     - _Shadow3rdReceive: 0
-    - _ShadowBlur: 0.444
+    - _ShadowBlur: 0.442
     - _ShadowBlurMaskLOD: 0
-    - _ShadowBorder: 0.5
+    - _ShadowBorder: 0.615
     - _ShadowBorderMaskLOD: 0
-    - _ShadowBorderRange: 0
+    - _ShadowBorderRange: 0.08
     - _ShadowColorType: 0
     - _ShadowEnvStrength: 0
     - _ShadowFlatBlur: 1
     - _ShadowFlatBorder: 1
-    - _ShadowMainStrength: 0
+    - _ShadowMainStrength: 0.5
     - _ShadowMaskType: 0
     - _ShadowNormalStrength: 1
     - _ShadowPostAO: 0
@@ -676,12 +676,12 @@ Material:
     - _RimColor: {r: 0.16936633, g: 0.17377181, b: 0.20754719, a: 1}
     - _RimIndirColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimShadeColor: {r: 0.8235582, g: 0.8639084, b: 0.8773585, a: 1}
-    - _Shadow2ndColor: {r: 0.9150943, g: 0.9047414, b: 0.8935119, a: 1}
+    - _Shadow2ndColor: {r: 0.19228333, g: 0.2525064, b: 0.27358449, a: 0.568}
     - _Shadow3rdColor: {r: 0, g: 0, b: 0, a: 0}
     - _ShadowAOShift: {r: 1, g: 0, b: 1, a: 0}
     - _ShadowAOShift2: {r: 1, g: 0, b: 1, a: 0}
-    - _ShadowBorderColor: {r: 1, g: 0.41037732, b: 0.41037732, a: 1}
-    - _ShadowColor: {r: 0.9764151, g: 0.9960692, b: 1, a: 1}
+    - _ShadowBorderColor: {r: 0.42452827, g: 0.41910973, b: 0.4185208, a: 1}
+    - _ShadowColor: {r: 0.9669811, g: 0.99068695, b: 1, a: 1}
     - _e2ga0: {r: 1, g: 0, b: 0, a: 0}
     - _e2ga1: {r: 1, g: 0, b: 0, a: 1}
     - _e2ga2: {r: 1, g: 0, b: 0, a: 0}

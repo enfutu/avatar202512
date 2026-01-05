@@ -210,7 +210,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "jp.unisakistudio.posingsystem": "3.0.0-alpha.2"
+        "jp.unisakistudio.posingsystem": "3.0.3"
       }
     },
     "jp.unisakistudio.posingsystem": {
@@ -219,7 +219,7 @@
       "source": "embedded",
       "dependencies": {
         "nadena.dev.modular-avatar": "1.15.1",
-        "nadena.dev.ndmf": "1.10.0"
+        "nadena.dev.ndmf": "1.10.1"
       }
     },
     "lyuma.av3emulator": {
