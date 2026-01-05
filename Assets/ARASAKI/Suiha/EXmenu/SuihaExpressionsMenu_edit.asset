@@ -14,26 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Parameters: {fileID: 11400000, guid: 664ff545ec31dc846989e76902d5a7d6, type: 2}
   controls:
-  - name: face
-    icon: {fileID: 2800000, guid: af1ba8919b0ccb94a99caf43ac36f97d, type: 3}
-    type: 103
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 11400000, guid: 657766c429ee1e24db1d6d4f2e208254, type: 2}
-    subParameters: []
-    labels: []
-  - name: expression
-    icon: {fileID: 2800000, guid: bd8a88846cb1f0d45b5110b9508b385d, type: 3}
-    type: 103
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 11400000, guid: 3b75e771f1d3e9e44bd0f0ff9cf8acb9, type: 2}
-    subParameters: []
-    labels: []
   - name: wrench
     icon: {fileID: 2800000, guid: 8739adb80343151469ddc5a3894ee146, type: 3}
     type: 103

@@ -14,36 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isEmpty: 0
   parameters:
-  - name: FaceType
-    valueType: 0
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: Face
-    valueType: 0
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: Ear&Tail
-    valueType: 2
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: HairFrontSide
-    valueType: 2
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: HairSide
-    valueType: 2
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
-  - name: Breast
-    valueType: 1
-    saved: 1
-    defaultValue: 0.5
-    networkSynced: 1
   - name: Wrench
     valueType: 2
     saved: 1
