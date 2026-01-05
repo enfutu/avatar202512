@@ -381,7 +381,7 @@ Material:
     - _IDMaskPrior7: 0
     - _IDMaskPrior8: 0
     - _Invisible: 0
-    - _LightMaxLimit: 0.9
+    - _LightMaxLimit: 1
     - _LightMinLimit: 0.05
     - _Main2ndDissolveNoiseStrength: 0.1
     - _Main2ndEnableLighting: 1
@@ -549,7 +549,7 @@ Material:
     - _Shadow3rdBorder: 0.079
     - _Shadow3rdNormalStrength: 0
     - _Shadow3rdReceive: 0.277
-    - _ShadowBlur: 0.6
+    - _ShadowBlur: 0.3
     - _ShadowBlurMaskLOD: 0
     - _ShadowBorder: 0.9
     - _ShadowBorderMaskLOD: 0.0016000001
