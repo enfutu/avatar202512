@@ -86,7 +86,7 @@ Material:
     - _LightValueMin: 0.8
     - _MaskPower: 1
     - _Mode: 0
-    - _OrbitalRange: 0.12
+    - _OrbitalRange: 0.18
     - _ParticleSize: 0.08
     - _RandomColor: 0
     - _RandomGloss: 0.5
